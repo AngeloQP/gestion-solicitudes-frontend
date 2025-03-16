@@ -42,19 +42,19 @@ El proyecto **Gestión de Solicitudes** es una aplicación web diseñada para ge
 ## 📁 Estructura del Proyecto
 
 
-![Estructura](src/assets/estructura.png)
+![Estructura](src/assets/imgGif/estructura.png)
 
 
 ## 📸 Capturas de Pantalla
 
 ### **Lista de Solicitudes**
-![Lista de Solicitudes](src/assets/listaSolicitudes.gif)
+![Lista de Solicitudes](src/assets/imgGif/listaSolicitudes.gif)
 
 ### **Información de Solicitudes**
-![Información de Solicitudes](src/assets/infoSolicitudes.gif)
+![Información de Solicitudes](src/assets/imgGif/infoSolicitudes.gif)
 
 ### **Exportar CSV**
-![Exportar CSV](src/assets/exportarCSV.gif)
+![Exportar CSV](src/assets/imgGif/exportarCSV.gif)
 
 ### **Registro de Solicitudes**
-![Registro de Solicitudes](src/assets/registroSolicitudes.gif)
+![Registro de Solicitudes](src/assets/imgGif/registroSolicitudes.gif)
